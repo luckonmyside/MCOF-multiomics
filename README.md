@@ -27,19 +27,5 @@ python scripts/run_main.py \
 
 Inspect the command, then remove `--dry-run` to train. Add `--cpu` for CPU execution. Training settings are in [configs/mcof_se.json](configs/mcof_se.json).
 
-## Documentation
 
-| Guide | Contents |
-|---|---|
-| [Run analyses](docs/RUNNING_ANALYSES.md) | Baselines, ablation, sensitivity analyses, and attribution |
-| [Analysis map](docs/ANALYSIS_MAP.md) | Scripts and their corresponding analyses |
-| [Attribution](docs/ATTRIBUTION.md) | IG versions, integration methods, and ranking definitions |
-| [Provenance](docs/PROVENANCE.md) | Source versions and packaging changes |
-
-## Scope and reuse
-
-Results are conditional on preselected candidate panels. Training-partition preprocessing does not remove any outcome information used in upstream screening; the complete raw-to-panel workflow is not reconstructed here. Fully nested evaluation and independent validation remain necessary.
-
-Source data, checkpoints, individual predictions, and complete IG result tables are not included. See the [reproducibility notes](docs/REPRODUCIBILITY.md) for requirements and limitations.
-
-Citation metadata: [CITATION.cff](CITATION.cff). Licensing: [LICENSE_STATUS.md](LICENSE_STATUS.md) and [third-party notices](THIRD_PARTY_NOTICES.md). MOGONET retains its MIT license; no new license has been assigned to the authors' MCOF code.
+Citation metadata: [CITATION.cff](CITATION.cff). Licensing: [LICENSE_STATUS.md](LICENSE_STATUS.md) . MOGONET retains its MIT license; no new license has been assigned to the authors' MCOF code.
