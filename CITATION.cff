@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the associated MCOF manuscript and this repository version."
+title: "MCOF: Multi-Channel attention-based Omics Fusion"
+version: "1.0.0"
+type: software
+repository-code: "https://github.com/luckonmyside/MCOF-multiomics"
+authors:
+  - family-names: Liang
+    given-names: Xuezhi
+  - family-names: Wang
+    given-names: Qi
+  - family-names: Xie
+    given-names: Kun
+  - family-names: Zhang
+    given-names: Jianghui
+  - family-names: Feng
+    given-names: Shiyu
+  - family-names: Zhong
+    given-names: Xinyuan
+  - family-names: Guo
+    given-names: Tingting
+  - family-names: Zhang
+    given-names: Yi
+  - family-names: Chen
+    given-names: Wen
+abstract: "Source code associated with manuscript ijms-4520828. No publication DOI is assigned in this metadata."
