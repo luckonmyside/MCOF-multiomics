@@ -1,0 +1,9 @@
+# Runtime dependency names; NOT an original locked experiment environment.
+# Install PyTorch appropriate to your platform first when necessary.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+openpyxl

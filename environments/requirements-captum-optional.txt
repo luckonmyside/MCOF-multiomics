@@ -1,0 +1,3 @@
+# Optional. Installing/removing Captum changes the archived IG backend selection.
+# Read docs/ATTRIBUTION.md before running the legacy attribution entry points.
+captum

@@ -1,0 +1,8 @@
+{
+  "source": "23 supplied revision run_manifest.json records; not an original full environment lock",
+  "python_version": "3.9.23 | packaged by conda-forge | (main, Jun  4 2025, 17:57:12) \n[GCC 13.3.0]",
+  "torch_version": "2.8.0+cu128",
+  "device_name": "NVIDIA A800 80GB PCIe",
+  "platform": "Linux-4.18.0-372.9.1.el8.x86_64-x86_64-with-glibc2.28",
+  "unrecorded": "Exact historical numpy/pandas/scikit-learn/mixOmics and Captum versions cannot be inferred from these records."
+}
