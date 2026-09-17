@@ -6,7 +6,7 @@ Code accompanying manuscript **ijms-4520828**. The manuscript model is **MCOF v2
 
 ## Quick start
 
-Run from the repository root in a separate Python environment. See the [environment and testing notes](docs/REPRODUCIBILITY.md) for recorded versions, GPU installation considerations, and additional checks.
+Run from the repository root in a separate Python environment. See the [environment and testing notes](docs/requirements.txt) for recorded versions, GPU installation considerations, and additional checks.
 
 ```bash
 python -m pip install -r requirements.txt
